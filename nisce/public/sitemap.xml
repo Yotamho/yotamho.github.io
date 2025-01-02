@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/nisce/public/categories/</loc>
+    <loc>https://www.nisce.gallery/nisce/public/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/nisce/public/</loc>
+    <loc>https://www.nisce.gallery/nisce/public/</loc>
   </url><url>
-    <loc>http://localhost:1313/nisce/public/privacy-policy/</loc>
+    <loc>https://www.nisce.gallery/nisce/public/privacy-policy/</loc>
   </url><url>
-    <loc>http://localhost:1313/nisce/public/tags/</loc>
+    <loc>https://www.nisce.gallery/nisce/public/tags/</loc>
   </url>
 </urlset>

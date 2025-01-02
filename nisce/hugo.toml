@@ -1,4 +1,4 @@
-baseURL = 'https://nisce.gallery/nisce/public/'
+baseURL = 'https://www.nisce.gallery/nisce/public/'
 languageCode = 'en-us'
 theme = 'hermit-v2'
 

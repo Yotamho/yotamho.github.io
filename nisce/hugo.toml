@@ -1,4 +1,4 @@
-baseURL = 'https://yotamho.github.io/nisce/public/'
+baseURL = 'https://nisce.gallery/nisce/public/'
 languageCode = 'en-us'
 theme = 'hermit-v2'
 
@@ -6,8 +6,11 @@ theme = 'hermit-v2'
   [languages.en]
     title = 'Nisce'
     [languages.en.params]
-      homeSubtitle = "Nisce makes it easy to curate your photos and videos, in a fun way."
-    weight = 1
+      homeSubtitle = "Nisce makes it easy to curate your photos and videos."
+    weight = 3
+
+[params.author]
+  name = "Yotam Hochman"
 
 [params]
   homeSubtitlePrinter = true

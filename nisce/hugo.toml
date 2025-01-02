@@ -1,0 +1,25 @@
+baseURL = 'https://nisce.gallery/'
+languageCode = 'en-us'
+theme = 'hermit-v2'
+
+[languages]
+  [languages.en]
+    title = 'Nisce'
+    [languages.en.params]
+      homeSubtitle = "Nisce makes it easy to curate your photos and videos, in a fun way."
+    weight = 1
+
+[params]
+  homeSubtitlePrinter = true
+  [[params.socialLinks]]
+    name = "email"
+    url = "mailto:nisceapp@gmail.com"
+
+
+[menu]
+
+  [[menu.main]]
+    name = "Privacy Policy"
+    url = "privacy-policy/"
+    weight = 10
+

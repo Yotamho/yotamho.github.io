@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nisce.gallery/categories/</loc>
+    <loc>file:///Users/yotamhochman/Software/yotamho.github.io/nisce/public/categories/</loc>
   </url><url>
-    <loc>https://nisce.gallery/</loc>
+    <loc>file:///Users/yotamhochman/Software/yotamho.github.io/nisce/public/</loc>
   </url><url>
-    <loc>https://nisce.gallery/privacy-policy/</loc>
+    <loc>file:///Users/yotamhochman/Software/yotamho.github.io/nisce/public/privacy-policy/</loc>
   </url><url>
-    <loc>https://nisce.gallery/tags/</loc>
+    <loc>file:///Users/yotamhochman/Software/yotamho.github.io/nisce/public/tags/</loc>
   </url>
 </urlset>

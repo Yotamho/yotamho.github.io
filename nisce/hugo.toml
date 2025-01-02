@@ -1,4 +1,4 @@
-baseURL = 'https://nisce.gallery/'
+baseURL = 'https://yotamho.github.io/nisce/public/'
 languageCode = 'en-us'
 theme = 'hermit-v2'
 

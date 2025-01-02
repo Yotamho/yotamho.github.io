@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nisce</title>
-    <link>https://nisce.gallery/tags/</link>
+    <link>file:///Users/yotamhochman/Software/yotamho.github.io/nisce/public/tags/</link>
     <description>Recent content in Tags on Nisce</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://nisce.gallery/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="file:///Users/yotamhochman/Software/yotamho.github.io/nisce/public/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

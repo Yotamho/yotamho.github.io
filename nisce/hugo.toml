@@ -22,6 +22,11 @@ theme = 'hermit-v2'
 [menu]
 
   [[menu.main]]
+    name = "Support"
+    url = "support/"
+    weight = 10
+
+  [[menu.main]]
     name = "Privacy Policy"
     url = "privacy-policy/"
     weight = 10

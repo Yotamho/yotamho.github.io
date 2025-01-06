@@ -7,7 +7,7 @@ theme = 'hermit-v2'
     title = 'Nisce'
     [languages.en.params]
       homeSubtitle = "Nisce makes it easy to curate your photos and videos."
-    weight = 3
+    weight = 1
 
 [params.author]
   name = "Yotam Hochman"
@@ -24,10 +24,10 @@ theme = 'hermit-v2'
   [[menu.main]]
     name = "Support"
     url = "support/"
-    weight = 10
+    weight = 1
 
   [[menu.main]]
     name = "Privacy Policy"
     url = "privacy-policy/"
-    weight = 10
+    weight = 2
 

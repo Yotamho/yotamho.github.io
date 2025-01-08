@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nisce</title>
-    <link>https://www.nisce.gallery/nisce/public/</link>
+    <link>http://localhost:59304/nisce/public/</link>
     <description>Recent content on Nisce</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://www.nisce.gallery/nisce/public/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:59304/nisce/public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy Policy</title>
-      <link>https://www.nisce.gallery/nisce/public/privacy-policy/</link>
+      <link>http://localhost:59304/nisce/public/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.nisce.gallery/nisce/public/privacy-policy/</guid>
+      <guid>http://localhost:59304/nisce/public/privacy-policy/</guid>
       <description>&lt;p&gt;This privacy policy applies to the Nisce app (hereby referred to as &amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by Yotam Hochman (hereby referred to as &amp;ldquo;Service Provider&amp;rdquo;) as a Commercial service. This service is intended for use &amp;ldquo;AS IS&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;What information does the Application obtain and how is it used?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Application does not obtain any information when you download and use it. Registration is not required to use the Application.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Support</title>
-      <link>https://www.nisce.gallery/nisce/public/support/</link>
+      <link>http://localhost:59304/nisce/public/support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.nisce.gallery/nisce/public/support/</guid>
+      <guid>http://localhost:59304/nisce/public/support/</guid>
       <description>&lt;p&gt;For support, please contact the developer at &lt;a href=&#34;mailto:nisceapp@gmail.com&#34;&gt;nisceapp@gmail.com&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

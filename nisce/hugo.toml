@@ -15,8 +15,8 @@ theme = 'hermit-v2'
 [params]
   homeSubtitlePrinter = true
   [[params.socialLinks]]
-    name = "email"
-    url = "mailto:nisceapp@gmail.com"
+    name = "appstore"
+    url = "https://apps.apple.com/app/nisce/id6739634955"
 
 
 [menu]
